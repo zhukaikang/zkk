@@ -10,4 +10,6 @@ Experiments:
 To evaluate the effect of the method,evaluation()is added by using mir-eval.It can show the values of sdr, sir, sar, perm.
 
 References:
- Rafii-Pardo - Music-Voice Separation using the Similarity Matrix - ISMIR 2012
+ Rafii Pardo, Music-Voice Separation using the Similarity Matrix, ISMIR,2012
+ Fitzgerald, D. (2012) Vocal separation using nearest neighbours and median filtering. 23rd IET Irish Signals and Systems Conference,
+Maynooth. 28-29th. June 2012.
