@@ -1,4 +1,4 @@
-# singing voice separation 朱恺康
+# singing voice separation by zhukaikang
 # Intro:
   My project is singing voice separation,it is based on the code from my teacher Dr.Zhang Xulong and some examples searched on the Internet.
   
